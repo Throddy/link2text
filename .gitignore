@@ -1,0 +1,31 @@
+# Результаты и скачанные файлы
+output/
+downloads/
+
+# Медиа, которые кладутся рядом со скриптом для расшифровки
+*.mp3
+*.m4a
+*.wav
+*.ogg
+*.opus
+*.flac
+*.aac
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.m4v
+
+# Cookies дают доступ к аккаунту, в репо им не место
+cookies.txt
+*cookies*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
